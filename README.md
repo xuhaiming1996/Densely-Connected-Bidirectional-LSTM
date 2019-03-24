@@ -1,5 +1,4 @@
 # Densely Connected Bidirectional LSTM
-![Authour](https://img.shields.io/badge/Author-Zhang%20Hao%20(Isaac%20Changhau)-blue.svg) ![](https://img.shields.io/badge/Python-3.6-brightgreen.svg) ![](https://img.shields.io/badge/TensorFlow-1.4.0-yellowgreen.svg)  
 Tensorflow implementation of **Densely Connected Bidirectional LSTM with Applications to Sentence Classification**, [[arXiv:1802.00889]](https://arxiv.org/pdf/1802.00889.pdf).
 
 ## Densely Connected Bidirectional LSTM (DC-Bi-LSTM) Overview
